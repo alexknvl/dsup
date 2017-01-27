@@ -1,0 +1,6 @@
+*.pyc
+sftp-config.json
+.freebase_api_key
+freebase_api_key
+mql_queries
+.remote-sync.json
